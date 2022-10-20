@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task 28\\task 28.csproj",
+      "projectUniqueName": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task28\\task 28.csproj",
       "projectName": "task 28",
-      "projectPath": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task 28\\task 28.csproj",
+      "projectPath": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task28\\task 28.csproj",
       "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task 28\\obj\\",
+      "outputPath": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\Tasks in C#\\task28\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config"
